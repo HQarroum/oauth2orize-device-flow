@@ -1,0 +1,21 @@
+{
+  "name": "oauth2orize-device-flow",
+  "version": "0.1.0",
+  "description": "Device flow implementation for OAuth2orize",
+  "keywords": [
+    "oauth2",
+    "device"
+  ],
+  "author": {
+    "name": "Halim Qarroum"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HQarroum/oauth2orize-device-flow.git"
+  },
+  "dependencies": {
+    "utils-merge": "1.x.x",
+    "uid2": "0.0.x"
+  },
+  "main": "./lib"
+}
